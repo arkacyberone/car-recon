@@ -23,7 +23,7 @@
 ```bash
 pkg update && pkg upgrade -y  
 pkg install git nmap whois traceroute -y  
-git clone https://github.com/Sonsy-26/cat-recon
+git clone https://github.com/arkacyberone/cat-recon
 cd cat-recon
 chmod +x catrecon.sh
 ./catrecon.sh
@@ -33,7 +33,7 @@ chmod +x catrecon.sh
 ```bash
 apt update && apt upgrade -y  
 apt install git nmap whois traceroute -y  
-git clone https://github.com/Sonsy-26/cat-recon
+git clone https://github.com/arkacyberone/cat-recon
 cd cat-recon
 chmod +x catrecon.sh
 ./catrecon.sh
